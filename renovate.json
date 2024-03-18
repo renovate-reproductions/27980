@@ -4,7 +4,6 @@
         ":dependencyDashboard",
         "replacements:containerbase",
         "docker:enableMajor",
-        "docker:pinDigests",
         ":prImmediately"
     ],
     "schedule":["at any time"]
